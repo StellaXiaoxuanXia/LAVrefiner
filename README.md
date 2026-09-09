@@ -20,7 +20,7 @@ conda create -n LAVrefiner python=3.12
 conda activate LAVrefiner
 
 # Clone and install LAVrefiner
-git clone https://github.com/Lostmet/LAVrefiner.git
+git clone https://github.com/StellaXiaoxuanXia/LAVrefiner
 cd LAVrefiner
 pip install .
 
