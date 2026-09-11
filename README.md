@@ -24,17 +24,12 @@ git clone https://github.com/StellaXiaoxuanXia/LAVrefiner
 cd LAVrefiner
 pip install .
 
-```
-
-You can replace the above steps by downloading the release package from the Releases page, which already contains the pre-built executable.
-
-```bash
 # Install MAFFT
 conda install conda-forge::mafft
 
 ```
 
-Alternatively, you can download MAFFT directly from the [official MAFFT website](https://mafft.cbrc.jp/alignment/software/) and install it manually. In this case, please make sure that the `mafft` executable is accessible through your environment `PATH`.
+You can download MAFFT directly from the [official MAFFT website](https://mafft.cbrc.jp/alignment/software/) and install it manually. In this case, please make sure that the `mafft` executable is accessible through your environment `PATH`.
 
 ---
 
