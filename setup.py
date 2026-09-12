@@ -11,20 +11,16 @@ setup(
         "biopython>=1.79",
         "click>=8.0.0",
         "tqdm>=4.65.0",
-        "Levenshtein>=0.25.1"
+        "Levenshtein>=0.25.1",
     ],
     entry_points={
-    'console_scripts': [
-        'lavrefiner=LAVrefiner.cli:cli',
-        'SVrefiner=LAVrefiner.cli:cli'
-    ],
-
+        "console_scripts": [
+            "lavrefiner=LAVrefiner.cli:cli",
+        ],
     },
     author="PeixiongYuan & JuntengWu",
     author_email="yuanpeixiong@westlake.edu.cn & fenglostmet@tju.edu.cn",
-    description="A Python tool for refined Structural Variants (rSVs)",
-    long_description=open("README.md").read(),
-    long_description_content_type="text/markdown",
+    description="A Python tool for refined Length-Altering Variants (rLAVs)",
     url="https://github.com/Lostmet/LAVrefiner",
     classifiers=[
         "Programming Language :: Python :: 3",
