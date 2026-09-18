@@ -33,6 +33,15 @@ You can download MAFFT directly from the [official MAFFT website](https://mafft.
 
 ---
 
+### Test data and extended example
+
+Two example resources are available:
+
+- **Basic LAVrefiner testing:** The [`test/`](test/) directory in this repository contains a small example VCF, a reference FASTA, and their indexes for testing variant processing and refinement. See [Example Workflow](#example-workflow) below for command usage. When running from the repository root, use `test/test.vcf.gz` and `test/test.fasta` as the input paths. TR-aware alignment additionally requires a TR annotation file, as described under [Input](#input).
+
+- **Extended workflow with heritability estimation:** The separate [LAVrefiner_demo](https://github.com/StellaXiaoxuanXia/LAVrefiner_demo) repository provides a downloadable package for testing LAVrefiner together with downstream copy-number calculation, GRM construction, and heritability estimation. Follow its README for the example data, environment setup, and execution instructions.
+
+---
 ## Input
 
 **Required input files:**
