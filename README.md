@@ -210,13 +210,13 @@ lavrefiner dosage --vcf test_out/LAV.vcf.gz --tr-vcf TRCompDB.vcf.gz --out test_
 The pipeline resolves overlapping LAVs into more precise rLAVs through alignment and window-based clustering.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8e8de218-7207-40a9-8ddc-fb5f23fb85f5" width="500">
+<img src="https://github.com/user-attachments/assets/c89a0282-7681-4ef9-8a3f-3c99503ba67b" width="700">
 </p>
 
 ### Module overview
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d7def476-6db8-446f-a326-1436d7db0e40" width="800">
+<img src="https://github.com/user-attachments/assets/f9e07aa6-d81c-46e1-bfc7-2fb8e5c81765" width="800">
 </p>
 
 
