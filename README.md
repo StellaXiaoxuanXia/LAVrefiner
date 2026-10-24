@@ -294,4 +294,7 @@ If you encounter issues, please open an issue on GitHub or contact the authors a
 
 If you use this software, please cite:
 
-Xia X., Wu J., Gao Z. *et al.*, Modeling structural variations sequencing information to address missing heritability and enhance risk prediction (2025) *bioRxiv*. doi:[10.1101/2025.08.07.669060](https://doi.org/10.1101/2025.08.07.669060)
+Xia X., Wu J., Gao Z. *et al.* (2026).
+Refining indel- and structural variant-trait associations with LAVrefiner.
+*Genome Research*. Advance online publication.
+[Article](https://genome.cshlp.org/content/early/2026/10/20/gr.282617.126)
