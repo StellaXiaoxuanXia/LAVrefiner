@@ -296,5 +296,4 @@ If you use this software, please cite:
 
 Xia X., Wu J., Gao Z. *et al.* (2026).
 Refining indel- and structural variant-trait associations with LAVrefiner.
-*Genome Research*. Advance online publication.
-[Article](https://genome.cshlp.org/content/early/2026/10/20/gr.282617.126)
+*Genome Research*. https://doi.org/10.1101/gr.282617.126
